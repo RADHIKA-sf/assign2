@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "First Name": "Radhika",
+        "Middle Name": "",
+        "Last Name": "Kumari",
+        "Email": "radhika3052@gmail.com",
+        "Phone": "9546738888",
+        "Role": "Full Stack Developer",
+        "Address": "Una,Himachal Pradesh"
+    },
+    {
+        "id": "2",
+        "First Name": "Amit",
+        "Middle Name": "Kumar",
+        "Last Name": "Sharma",
+        "Email": "amitkumar@gmail.com",
+        "Phone": "9665788880",
+        "Role": "IOS Developer",
+        "Address": "Kangra, Himachal Pradesh"
+    },
+    {
+        "id": "3",
+        "First Name": "Simran",
+        "Middle Name": "",
+        "Last Name": "Kaur",
+        "Email": "Simran.kaur@gmail.com",
+        "Phone": "98000777889",
+        "Role": "QA Engineer",
+        "Address": "Conoaught Palace, Delhi"
+    },
+    {
+        "id": "4",
+        "First Name": "Kriti",
+        "Middle Name": "Singh",
+        "Last Name": "Agarwal",
+        "Email": "kriti34@gmail.com",
+        "Phone": "9089012345",
+        "Role": "HR",
+        "Address": "Ghaziabad, Uttar Pradesh"
+    },
+    {
+        "id": "5",
+        "First Name": "Aman",
+        "Middle Name": "",
+        "Last Name": "Kalmotia",
+        "Email": "amank8@gmail.com",
+        "Phone": "7689054566",
+        "Role": "IOS Developer",
+        "Address": "Una, Himachal Pradesh"
+    }
+]
